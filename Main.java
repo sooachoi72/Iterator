@@ -4,6 +4,10 @@ import java.util.Iterator;
 
 public class Main {
     public static void main(String[] args) {
+
+        System.out.println("학번: 20240904 / 이름: 최수아");
+        System.out.println("--------------------------------");
+        
         // [Step 4-1] 10개의 책 데이터를 담을 수 있도록 크기 지정 및 데이터 추가
         BookShelf bookShelf = new BookShelf(10);
         
